@@ -1,3 +1,4 @@
 
 ---
   - name: ping localhost
+    hosts: localhost
