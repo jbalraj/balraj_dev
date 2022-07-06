@@ -4,4 +4,4 @@
     hosts: localhost
     tasks: 
       - name: pinging localhost
-        ping:
+        
